@@ -1,0 +1,15 @@
+[gd_scene format=3 uid="uid://g7ktp28cbsmu"]
+
+[node name="volumeBar" type="VScrollBar"]
+custom_minimum_size = Vector2(30, 100)
+anchors_preset = -1
+anchor_top = 0.003
+anchor_right = 0.03
+anchor_bottom = 0.167
+offset_top = -1.944
+offset_right = -4.56
+offset_bottom = -8.216
+size_flags_horizontal = 6
+max_value = 10.0
+step = 0.001
+custom_step = 1.0
